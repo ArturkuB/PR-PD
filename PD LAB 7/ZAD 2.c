@@ -1,4 +1,4 @@
-# WERSJA Z ULEPSZONYM POKAZEM
+// WERSJA Z ULEPSZONYM POKAZEM
 
 #include <stdio.h>
 #include <stdlib.h>
